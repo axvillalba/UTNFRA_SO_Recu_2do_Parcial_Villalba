@@ -1,0 +1,3 @@
+FROM nginx 
+
+copy index.html /UTN_FRA_SO_EXAMENES/202407_Recu/docker/web
