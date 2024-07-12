@@ -48,4 +48,13 @@
    53  sudo systemctl restart docker
    54  sudo ls
    55  sudo systemctl status docker
+
+
+  204  sudo fdisk /dev/sdd
+  206  sudo fdisk -l
+  208  sudo pvcreate /dev/sdd1
+
+
+
+
 echo "comandos punto A"
